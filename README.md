@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**alexxu06/alexxu06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+2nd year computer science and mathematics student at UBC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,html,css,r" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,spring,flask,tailwind,bootstrap,maven,git" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</div>
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxu06&layout=compact&theme=radical&hide=jupyter%20notebook" />
+
